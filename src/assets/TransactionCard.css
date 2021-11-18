@@ -1,0 +1,12 @@
+.transaction-card {
+  cursor: pointer;
+  border-radius: 10px;
+  border-radius: 15px;
+  background: #eeeeee;
+  padding: 2rem;
+  width: 15rem;
+  height: max-content;
+  display: inline-grid;
+  margin: 1rem 2rem;
+  color: #5497da;
+}
